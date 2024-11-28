@@ -1,0 +1,17 @@
+export const scaleFactor = 4;
+
+export const dialogueData = {
+    freezer: "I usually do intermittent fasting, so I stay more focused and productive throughout the day. This also benefits me spiritually, as it helps build willpower and character. In addition, I like to cook my own food, so I can control the nutrients and calories I ingest.",
+    sofa: `I often feel like binge watching shows on Netflix. Some of the ones I've watched recently are <a href="https://en.wikipedia.org/wiki/Arcane_(TV_series)" target="_blank">Arcane</a>, <a href="https://en.wikipedia.org/wiki/Breaking_Bad" target="_blank">Breaking Bad</a> and <a href="https://en.wikipedia.org/wiki/Mr._Robot" target="_blank">Mr. Robot</a>. Have you watched any of them?`,
+    videogames: `One of my favorite hobbies is playing video games. Lately I've been playing the <a href="https://en.wikipedia.org/wiki/Persona_(series)" target="_blank">Persona</a> saga, and I'm not exaggerating when I say that it has changed my life. Besides playing, I also like to create video games. You can check out my portfolio on <a href="https://devjoseruiz.itch.io/" target="_blank">Itch.io</a>.`,
+    "medium-content": `I often post articles on my blog on <a href="https://medium.com/@devjoseruiz" target="_blank">Medium</a> about spirituality and technology.`,
+    "instagram-content": `On <a href="https://www.instagram.com/devjoseruiz/" target="_blank">Instagram</a> you can get in touch with me in a closer and more informal way.`,
+    "mixcloud-content": `I often create song mixes and share them on <a href="https://www.mixcloud.com/devjoseruiz/" target="_blank">MixCloud</a>.`,
+    "microinformatics-degree": "I have a degree in microcomputing, which allows me to repair and maintain my own computers, automate tasks and administer systems. In this way I can solve everyday problems autonomously at work.",
+    "development-degree": "I have a degree in software development, which qualifies me to create and maintain complex solutions, satisfying customer requirements, applying best practices and following industry standards.",
+    "theology-degree": "I have a degree in theology, which allows me to understand the complexities of the human soul, effectively solve personal problems and apply impeccable ethics in my work.",
+    pc: `This is my workplace, where I develop exciting projects that have an impact on the world. I always try to follow best practices and keep up with the latest trends. You can see my projects and contributions on my <a href="https://github.com/devjoseruiz" target="_blank">GitHub</a> profile.`,
+    resume: `I am a software engineer with experience in a wide range of technologies. You can view my digital resume on <a href="https://www.linkedin.com/in/devjoseruiz/" target="_blank">LinkedIn</a>. I am always open to new opportunities, so feel free to connect with me!`,
+    library: `I sometimes spend my time here, reading books and studying. I have many books on software engineering, philosophy and theology. I have become a much better programmer since reading books like <a href="https://en.wikipedia.org/wiki/The_Pragmatic_Programmer" target="_blank">The Pragmatic Programmer</a>, <a href="https://en.wikipedia.org/wiki/Robert_C._Martin" target="_blank">Clean Code</a> and <a href="https://en.wikipedia.org/wiki/Design_Patterns" target="_blank">Design Patterns</a>.`,
+    exit: "If you want to leave, just close the tab.",
+};
